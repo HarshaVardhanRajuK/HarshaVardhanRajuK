@@ -74,8 +74,11 @@ Self-taught. Transitioned from Civil Engineering. I learn by building things tha
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhanRajuK&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=374151&icon_color=6366F1&rank_icon=github" height="155" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaVardhanRajuK&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=374151&sideLabels=374151&dates=9CA3AF&currStreakNum=0F172A&sideNums=0F172A" height="155" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HarshaVardhanRajuK&show_icons=true&hide_border=true&theme=default&rank_icon=github&count_private=true#gh-light-mode-only)
+![Stats](https://github-readme-stats.vercel.app/api?username=HarshaVardhanRajuK&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&count_private=true#gh-dark-mode-only)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshaVardhanRajuK&hide_border=true&theme=default#gh-light-mode-only)
+
 </div>
 
 ---
