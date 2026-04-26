@@ -1,4 +1,4 @@
-<h1 align="center">Harsha</h1>
+<h1 align="center">Harsha Vardhan</h1>
 <p align="center">
   Full Stack Engineer • Scalable Systems • SaaS Products
 </p>
